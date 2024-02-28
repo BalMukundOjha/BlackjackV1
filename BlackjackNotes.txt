@@ -1,0 +1,4 @@
+This is simple Blackjack game.
+Rule: If your card sum is less than 21 you can draw new card.
+if you get more than 21 you will be out.
+if you get 21 you got Blackjack Won the match.
